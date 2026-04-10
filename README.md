@@ -11,7 +11,7 @@ This folder contains the public support site for `Your Smart Listening (Pro)`.
 
 ## Before Publishing
 
-1. Replace every `support@yourdomain.com` placeholder with your real support email.
+1. Update `zaparzeez@gmail.com` if the support contact address changes in the future.
 2. If the app is already live, replace the "App Store listing: available after release" text in `index.html` with the real App Store URL.
 3. Review the privacy policy wording and confirm it matches the app's final shipping behavior.
 
